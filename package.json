@@ -1,6 +1,12 @@
 {
   "name": "nodejs",
   "version": "1.0.0",
+  "description": "Belajar",
+  "scripts": {
+    "start":"node index.js",
+    "create":"mkdir src",
+    "dev":"nodemon index.js"
+  },
   "main": "index.js",
   "repository": "https://github.com/margogunatama/belajar_nodejs.git",
   "author": "Margo G <mgunatama@bankbjb.co.id>",
@@ -8,4 +14,5 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
+  
 }
