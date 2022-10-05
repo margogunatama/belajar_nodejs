@@ -1,0 +1,11 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/margogunatama/belajar_nodejs.git",
+  "author": "Margo G <mgunatama@bankbjb.co.id>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
